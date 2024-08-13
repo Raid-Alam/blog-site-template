@@ -1,3 +1,17 @@
+/*
+Theme Name: demo 
+Theme URI: http://example.com/demo
+Author: raid
+Author URI: http://example.com
+Description: this is a modern WordPress theme with a focus on stylish, rounded design elements. It features custom shortcodes, flexible menus, and responsive layouts. Ideal for bloggers and businesses, this theme offers easy customization and an elegant user interface.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: demo
+Tags: one-column, two-columns, right-sidebar, custom-background, custom-header, custom-menu, featured-images, threaded-comments, translation-ready
+*/
+
+
 :root {
     --blue: #007bff;
     --indigo: #6610f2;
